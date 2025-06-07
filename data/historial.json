@@ -12,5 +12,61 @@
     "resultado": "Ruta encontrada",
     "pasos": 1378,
     "energiaFinal": 9
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-06-06 22:09:48"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-06-06 22:10:11"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-06-06 22:10:27"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-06-06 22:10:32"
   }
 ]
