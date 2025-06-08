@@ -3,8 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.universe_loader import cargar_desde_archivo
 from app.solver import resolver
 from app.solver import resolver_varias_rutas
-from app.historial import guardar_historial
-from app.historial import obtener_historial
 from app.solver import resolver_backtracking_recursivo
 from app.solver import resolver_backtracking_varias_rutas
 
@@ -25,12 +23,7 @@ async def resolver_universo(file: UploadFile = File(...)):
     data = await file.read()
     universo = cargar_desde_archivo(data.decode())
     resultado = resolver(universo)
-    guardar_historial(universo, resultado)
     return resultado
-
-@app.get("/historial/")
-def ver_historial():
-    return obtener_historial()
 
 @app.post("/resolver-multiples/")
 async def resolver_varias(file: UploadFile = File(...)):
