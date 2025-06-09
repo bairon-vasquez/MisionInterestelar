@@ -12,5 +12,229 @@
     "resultado": "Ruta encontrada",
     "pasos": 1378,
     "energiaFinal": 9
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-28 10:35:21"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-28 10:36:15"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-28 10:40:10"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 10:45:07"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 10:50:47"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 10:59:18"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 10:59:53"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:01:16"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:01:43"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:19:41"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:20:29"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:22:44"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:24:11"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:41:58"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-05-30 11:57:49"
+  },
+  {
+    "origen": [
+      0,
+      0
+    ],
+    "destino": [
+      34,
+      39
+    ],
+    "rutaEncontrada": true,
+    "pasosEvaluados": 1378,
+    "energiaRestante": 9,
+    "fecha": "2025-06-08 19:41:40"
   }
 ]
